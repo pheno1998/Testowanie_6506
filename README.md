@@ -1,2 +1,1 @@
-# zal_proj_test_6506
- 
+# Testowanie_6506
